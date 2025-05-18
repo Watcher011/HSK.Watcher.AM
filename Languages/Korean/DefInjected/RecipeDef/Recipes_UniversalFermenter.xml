@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAmmo_9x19mmPara_FMJ_AAAM.label>make 9x19mm Parabellum (FMJ) cartridge x500</MakeAmmo_9x19mmPara_FMJ_AAAM.label>
+  <MakeAmmo_9x19mmPara_FMJ_AAAM.description>Craft 500 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ_AAAM.description>
+  <MakeAmmo_9x19mmPara_FMJ_AAAM.jobString>Making 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ_AAAM.jobString>
+
+  <MakeAmmo_9x19mmPara_AP_AAAM.label>make 9x19mm Parabellum (AP) cartridge x500</MakeAmmo_9x19mmPara_AP_AAAM.label>
+  <MakeAmmo_9x19mmPara_AP_AAAM.description>Craft 500 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP_AAAM.description>
+  <MakeAmmo_9x19mmPara_AP_AAAM.jobString>Making 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP_AAAM.jobString>
+
+  <MakeAmmo_9x19mmPara_HP_AAAM.label>make 9x19mm Parabellum (HP) cartridge x500</MakeAmmo_9x19mmPara_HP_AAAM.label>
+  <MakeAmmo_9x19mmPara_HP_AAAM.description>Craft 500 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP_AAAM.description>
+  <MakeAmmo_9x19mmPara_HP_AAAM.jobString>Making 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP_AAAM.jobString>
+
+  <MakeAmmo_45ACP_FMJ_AAAM.label>make .45 ACP (FMJ) cartridge x500</MakeAmmo_45ACP_FMJ_AAAM.label>
+  <MakeAmmo_45ACP_FMJ_AAAM.description>Craft 500 .45 ACP (FMJ) cartridges.</MakeAmmo_45ACP_FMJ_AAAM.description>
+  <MakeAmmo_45ACP_FMJ_AAAM.jobString>Making .45 ACP (FMJ) cartridges.</MakeAmmo_45ACP_FMJ_AAAM.jobString>
+
+  <MakeAmmo_45ACP_AP_AAAM.label>make .45 ACP (AP) cartridge x500</MakeAmmo_45ACP_AP_AAAM.label>
+  <MakeAmmo_45ACP_AP_AAAM.description>Craft 500 .45 ACP (AP) cartridges.</MakeAmmo_45ACP_AP_AAAM.description>
+  <MakeAmmo_45ACP_AP_AAAM.jobString>Making .45 ACP (AP) cartridges.</MakeAmmo_45ACP_AP_AAAM.jobString>
+
+  <MakeAmmo_45ACP_HP_AAAM.label>make .45 ACP (HP) cartridge x500</MakeAmmo_45ACP_HP_AAAM.label>
+  <MakeAmmo_45ACP_HP_AAAM.description>Craft 500 .45 ACP (HP) cartridges.</MakeAmmo_45ACP_HP_AAAM.description>
+  <MakeAmmo_45ACP_HP_AAAM.jobString>Making .45 ACP (HP) cartridges.</MakeAmmo_45ACP_HP_AAAM.jobString>
+
+  <MakeAmmo_303British_FMJ_AAAM.label>make .303 British (FMJ) cartridge x500</MakeAmmo_303British_FMJ_AAAM.label>
+  <MakeAmmo_303British_FMJ_AAAM.description>Craft 500 .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ_AAAM.description>
+  <MakeAmmo_303British_FMJ_AAAM.jobString>Making .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ_AAAM.jobString>
+
+  <MakeAmmo_303British_AP_AAAM.label>make .303 British (AP) cartridge x500</MakeAmmo_303British_AP_AAAM.label>
+  <MakeAmmo_303British_AP_AAAM.description>Craft 500 .303 British (AP) cartridges.</MakeAmmo_303British_AP_AAAM.description>
+  <MakeAmmo_303British_AP_AAAM.jobString>Making .303 British (AP) cartridges.</MakeAmmo_303British_AP_AAAM.jobString>
+
+  <MakeAmmo_303British_HP_AAAM.label>make .303 British (HP) cartridge x500</MakeAmmo_303British_HP_AAAM.label>
+  <MakeAmmo_303British_HP_AAAM.description>Craft 500 .303 British (HP) cartridges.</MakeAmmo_303British_HP_AAAM.description>
+  <MakeAmmo_303British_HP_AAAM.jobString>Making .303 British (HP) cartridges.</MakeAmmo_303British_HP_AAAM.jobString>
+
+  <MakeAmmo_556x45mmNATO_FMJ_AAAM.label>make 5.56x45mm NATO (FMJ) cartridge x500</MakeAmmo_556x45mmNATO_FMJ_AAAM.label>
+  <MakeAmmo_556x45mmNATO_FMJ_AAAM.description>Craft 500 5.56x45mm NATO (FMJ) cartridges.</MakeAmmo_556x45mmNATO_FMJ_AAAM.description>
+  <MakeAmmo_556x45mmNATO_FMJ_AAAM.jobString>Making 5.56x45mm NATO (FMJ) cartridges.</MakeAmmo_556x45mmNATO_FMJ_AAAM.jobString>
+
+  <MakeAmmo_556x45mmNATO_AP_AAAM.label>make 5.56x45mm NATO (AP) cartridge x500</MakeAmmo_556x45mmNATO_AP_AAAM.label>
+  <MakeAmmo_556x45mmNATO_AP_AAAM.description>Craft 500 5.56x45mm NATO (AP) cartridges.</MakeAmmo_556x45mmNATO_AP_AAAM.description>
+  <MakeAmmo_556x45mmNATO_AP_AAAM.jobString>Making 5.56x45mm NATO (AP) cartridges.</MakeAmmo_556x45mmNATO_AP_AAAM.jobString>
+
+  <MakeAmmo_556x45mmNATO_HP_AAAM.label>make 5.56x45mm NATO (HP) cartridge x500</MakeAmmo_556x45mmNATO_HP_AAAM.label>
+  <MakeAmmo_556x45mmNATO_HP_AAAM.description>Craft 500 5.56x45mm NATO (HP) cartridges.</MakeAmmo_556x45mmNATO_HP_AAAM.description>
+  <MakeAmmo_556x45mmNATO_HP_AAAM.jobString>Making 5.56x45mm NATO (HP) cartridges.</MakeAmmo_556x45mmNATO_HP_AAAM.jobString>
+
+  <MakeAmmo_762x39mmSoviet_FMJ_AAAM.label>make 7.62x39mm Soviet (FMJ) cartridge x500</MakeAmmo_762x39mmSoviet_FMJ_AAAM.label>
+  <MakeAmmo_762x39mmSoviet_FMJ_AAAM.description>Craft 500 7.62x39mm Soviet (FMJ) cartridges.</MakeAmmo_762x39mmSoviet_FMJ_AAAM.description>
+  <MakeAmmo_762x39mmSoviet_FMJ_AAAM.jobString>Making 7.62x39mm Soviet (FMJ) cartridges.</MakeAmmo_762x39mmSoviet_FMJ_AAAM.jobString>
+
+  <MakeAmmo_762x39mmSoviet_AP_AAAM.label>make 7.62x39mm Soviet (AP) cartridge x500</MakeAmmo_762x39mmSoviet_AP_AAAM.label>
+  <MakeAmmo_762x39mmSoviet_AP_AAAM.description>Craft 500 7.62x39mm Soviet (AP) cartridges.</MakeAmmo_762x39mmSoviet_AP_AAAM.description>
+  <MakeAmmo_762x39mmSoviet_AP_AAAM.jobString>Making 7.62x39mm Soviet (AP) cartridges.</MakeAmmo_762x39mmSoviet_AP_AAAM.jobString>
+
+  <MakeAmmo_762x39mmSoviet_HP_AAAM.label>make 7.62x39mm Soviet (HP) cartridge x500</MakeAmmo_762x39mmSoviet_HP_AAAM.label>
+  <MakeAmmo_762x39mmSoviet_HP_AAAM.description>Craft 500 7.62x39mm Soviet (HP) cartridges.</MakeAmmo_762x39mmSoviet_HP_AAAM.description>
+  <MakeAmmo_762x39mmSoviet_HP_AAAM.jobString>Making 7.62x39mm Soviet (HP) cartridges.</MakeAmmo_762x39mmSoviet_HP_AAAM.jobString>
+
+  <MakeAmmo_762x51mmNATO_FMJ_AAAM.label>make 7.62x51mm NATO (FMJ) cartridge x500</MakeAmmo_762x51mmNATO_FMJ_AAAM.label>
+  <MakeAmmo_762x51mmNATO_FMJ_AAAM.description>Craft 500 7.62x51mm NATO (FMJ) cartridges.</MakeAmmo_762x51mmNATO_FMJ_AAAM.description>
+  <MakeAmmo_762x51mmNATO_FMJ_AAAM.jobString>Making 7.62x51mm NATO (FMJ) cartridges.</MakeAmmo_762x51mmNATO_FMJ_AAAM.jobString>
+
+  <MakeAmmo_762x51mmNATO_AP_AAAM.label>make 7.62x51mm NATO (AP) cartridge x500</MakeAmmo_762x51mmNATO_AP_AAAM.label>
+  <MakeAmmo_762x51mmNATO_AP_AAAM.description>Craft 500 7.62x51mm NATO (AP) cartridges.</MakeAmmo_762x51mmNATO_AP_AAAM.description>
+  <MakeAmmo_762x51mmNATO_AP_AAAM.jobString>Making 7.62x51mm NATO (AP) cartridges.</MakeAmmo_762x51mmNATO_AP_AAAM.jobString>
+
+  <MakeAmmo_762x51mmNATO_HP_AAAM.label>make 7.62x51mm NATO (HP) cartridge x500</MakeAmmo_762x51mmNATO_HP_AAAM.label>
+  <MakeAmmo_762x51mmNATO_HP_AAAM.description>Craft 500 7.62x51mm NATO (HP) cartridges.</MakeAmmo_762x51mmNATO_HP_AAAM.description>
+  <MakeAmmo_762x51mmNATO_HP_AAAM.jobString>Making 7.62x51mm NATO (HP) cartridges.</MakeAmmo_762x51mmNATO_HP_AAAM.jobString>
+
+  <MakeAmmo_12Gauge_Buck_AAAM.label>make 12 gauge (Buck) shell x200</MakeAmmo_12Gauge_Buck_AAAM.label>
+  <MakeAmmo_12Gauge_Buck_AAAM.description>Craft 200 12 gauge (Buck) shells.</MakeAmmo_12Gauge_Buck_AAAM.description>
+  <MakeAmmo_12Gauge_Buck_AAAM.jobString>Making 12 gauge (Buck) shells.</MakeAmmo_12Gauge_Buck_AAAM.jobString>
+
+  <MakeAmmo_12Gauge_Slug_AAAM.label>make 12 gauge (Slug) shell x200</MakeAmmo_12Gauge_Slug_AAAM.label>
+  <MakeAmmo_12Gauge_Slug_AAAM.description>Craft 200 12 gauge (Slug) shells.</MakeAmmo_12Gauge_Slug_AAAM.description>
+  <MakeAmmo_12Gauge_Slug_AAAM.jobString>Making 12 gauge (Slug) shells.</MakeAmmo_12Gauge_Slug_AAAM.jobString>
+
+  <MakeAmmo_12Gauge_Beanbag_AAAM.label>make 12 gauge (Beanbag) shell x200</MakeAmmo_12Gauge_Beanbag_AAAM.label>
+  <MakeAmmo_12Gauge_Beanbag_AAAM.description>Craft 200 12 gauge (Beanbag) shells.</MakeAmmo_12Gauge_Beanbag_AAAM.description>
+  <MakeAmmo_12Gauge_Beanbag_AAAM.jobString>Making 12 gauge (Beanbag) shells.</MakeAmmo_12Gauge_Beanbag_AAAM.jobString>
+
+  <MakeAmmo_12Gauge_ElectroSlug_AAAM.label>make 12 gauge (EMP) shell x200</MakeAmmo_12Gauge_ElectroSlug_AAAM.label>
+  <MakeAmmo_12Gauge_ElectroSlug_AAAM.description>Craft 200 12 gauge (EMP) shells.</MakeAmmo_12Gauge_ElectroSlug_AAAM.description>
+  <MakeAmmo_12Gauge_ElectroSlug_AAAM.jobString>Making 12 gauge (EMP) shells.</MakeAmmo_12Gauge_ElectroSlug_AAAM.jobString>
+
+  <MakeAmmo_145x114mm_FMJ_AAAM.label>make 14.5x114mm (FMJ) cartridge x200</MakeAmmo_145x114mm_FMJ_AAAM.label>
+  <MakeAmmo_145x114mm_FMJ_AAAM.description>Craft 200 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ_AAAM.description>
+  <MakeAmmo_145x114mm_FMJ_AAAM.jobString>Making 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ_AAAM.jobString>
+
+  <MakeAmmo_145x114mm_Incendiary_AAAM.label>make 14.5x114mm (AP-I) cartridge x200</MakeAmmo_145x114mm_Incendiary_AAAM.label>
+  <MakeAmmo_145x114mm_Incendiary_AAAM.description>Craft 200 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary_AAAM.description>
+  <MakeAmmo_145x114mm_Incendiary_AAAM.jobString>Making 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary_AAAM.jobString>
+
+  <MakeAmmo_145x114mm_HE_AAAM.label>make 14.5x114mm (AP-HE) cartridge x200</MakeAmmo_145x114mm_HE_AAAM.label>
+  <MakeAmmo_145x114mm_HE_AAAM.description>Craft 200 14.5x114mm (AP-HE) cartridges.</MakeAmmo_145x114mm_HE_AAAM.description>
+  <MakeAmmo_145x114mm_HE_AAAM.jobString>Making 14.5x114mm (AP-HE) cartridges.</MakeAmmo_145x114mm_HE_AAAM.jobString>
+
+  <MakeAmmo_50BMG_FMJ_AAAM.label>make .50 BMG (FMJ) cartridge x200</MakeAmmo_50BMG_FMJ_AAAM.label>
+  <MakeAmmo_50BMG_FMJ_AAAM.description>Craft 200 .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ_AAAM.description>
+  <MakeAmmo_50BMG_FMJ_AAAM.jobString>Making .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ_AAAM.jobString>
+
+  <MakeAmmo_50BMG_Incendiary_AAAM.label>make .50 BMG (AP-I) cartridge x200</MakeAmmo_50BMG_Incendiary_AAAM.label>
+  <MakeAmmo_50BMG_Incendiary_AAAM.description>Craft 200 .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary_AAAM.description>
+  <MakeAmmo_50BMG_Incendiary_AAAM.jobString>Making .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary_AAAM.jobString>
+
+  <MakeAmmo_50BMG_HE_AAAM.label>make .50 BMG (AP-HE) cartridge x200</MakeAmmo_50BMG_HE_AAAM.label>
+  <MakeAmmo_50BMG_HE_AAAM.description>Craft 200 .50 BMG (AP-HE) cartridges.</MakeAmmo_50BMG_HE_AAAM.description>
+  <MakeAmmo_50BMG_HE_AAAM.jobString>Making .50 BMG (AP-HE) cartridges.</MakeAmmo_50BMG_HE_AAAM.jobString>
+
+  <MakeAmmo_50BMG_Sabot_AAAM.label>make .50 BMG (Sabot) cartridge x200</MakeAmmo_50BMG_Sabot_AAAM.label>
+  <MakeAmmo_50BMG_Sabot_AAAM.description>Craft 200 .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot_AAAM.description>
+  <MakeAmmo_50BMG_Sabot_AAAM.jobString>Making .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot_AAAM.jobString>
+
+  <MakeAmmo_20x102mm_FMJ_AAAM.label>make 20x102mm (FMJ) cartridge x40</MakeAmmo_20x102mm_FMJ_AAAM.label>
+  <MakeAmmo_20x102mm_FMJ_AAAM.description>Craft 40 20x102mm (FMJ) cartridges.</MakeAmmo_20x102mm_FMJ_AAAM.description>
+  <MakeAmmo_20x102mm_FMJ_AAAM.jobString>Making 20x102mm (FMJ) cartridges.</MakeAmmo_20x102mm_FMJ_AAAM.jobString>
+
+  <MakeAmmo_20x102mm_HE_AAAM.label>make 20x102mm (HE) cartridge x40</MakeAmmo_20x102mm_HE_AAAM.label>
+  <MakeAmmo_20x102mm_HE_AAAM.description>Craft 40 20x102mm (HE) cartridges.</MakeAmmo_20x102mm_HE_AAAM.description>
+  <MakeAmmo_20x102mm_HE_AAAM.jobString>Making 20x102mm (HE) cartridges.</MakeAmmo_20x102mm_HE_AAAM.jobString>
+
+  <MakeAmmo_20x102mm_Incendiary_AAAM.label>make 20x102mm (AP-I) cartridge x40</MakeAmmo_20x102mm_Incendiary_AAAM.label>
+  <MakeAmmo_20x102mm_Incendiary_AAAM.description>Craft 40 20x102mm (AP-I) cartridges.</MakeAmmo_20x102mm_Incendiary_AAAM.description>
+  <MakeAmmo_20x102mm_Incendiary_AAAM.jobString>Making 20x102mm (AP-I) cartridges.</MakeAmmo_20x102mm_Incendiary_AAAM.jobString>
+
+  <MakeAmmo_30x173mm_FMJ_AAAM.label>make 30x173mm (FMJ) cartridge x30</MakeAmmo_30x173mm_FMJ_AAAM.label>
+  <MakeAmmo_30x173mm_FMJ_AAAM.description>Craft 30 30x173mm (FMJ) cartridges.</MakeAmmo_30x173mm_FMJ_AAAM.description>
+  <MakeAmmo_30x173mm_FMJ_AAAM.jobString>Making 30x173mm (FMJ) cartridges.</MakeAmmo_30x173mm_FMJ_AAAM.jobString>
+
+  <MakeAmmo_30x173mm_HE_AAAM.label>make 30x173mm (HE) cartridge x30</MakeAmmo_30x173mm_HE_AAAM.label>
+  <MakeAmmo_30x173mm_HE_AAAM.description>Craft 30 30x173mm (HE) cartridges.</MakeAmmo_30x173mm_HE_AAAM.description>
+  <MakeAmmo_30x173mm_HE_AAAM.jobString>Making 30x173mm (HE) cartridges.</MakeAmmo_30x173mm_HE_AAAM.jobString>
+
+  <MakeAmmo_30x173mm_Incendiary_AAAM.label>make 30x173mm (AP-I) cartridge x30</MakeAmmo_30x173mm_Incendiary_AAAM.label>
+  <MakeAmmo_30x173mm_Incendiary_AAAM.description>Craft 30 30x173mm (AP-I) cartridges.</MakeAmmo_30x173mm_Incendiary_AAAM.description>
+  <MakeAmmo_30x173mm_Incendiary_AAAM.jobString>Making 30x173mm (AP-I) cartridges.</MakeAmmo_30x173mm_Incendiary_AAAM.jobString>
+
+  <MakeAmmo_30x29mmGrenade_HE_AAAM.label>make 30x29mm HE grenades x100</MakeAmmo_30x29mmGrenade_HE_AAAM.label>
+  <MakeAmmo_30x29mmGrenade_HE_AAAM.description>Craft 100 30x29mm HE grenades.</MakeAmmo_30x29mmGrenade_HE_AAAM.description>
+  <MakeAmmo_30x29mmGrenade_HE_AAAM.jobString>Making 30x29mm HE grenades.</MakeAmmo_30x29mmGrenade_HE_AAAM.jobString>
+
+  <MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.label>make 30x29mm HE Time-Fuzed grenades x100</MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.label>
+  <MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.description>Craft 100 30x29mm HE Time-Fuzed grenades.</MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.description>
+  <MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.jobString>Making 30x29mm HE Time-Fuzed grenades.</MakeAmmo_30x29mmGrenade_HE_TFuzed_AAAM.jobString>
+
+  <MakeAmmo_30x29mmGrenade_EMP_AAAM.label>make 30x29mm EMP grenades x100</MakeAmmo_30x29mmGrenade_EMP_AAAM.label>
+  <MakeAmmo_30x29mmGrenade_EMP_AAAM.description>Craft 100 30x29mm EMP grenades.</MakeAmmo_30x29mmGrenade_EMP_AAAM.description>
+  <MakeAmmo_30x29mmGrenade_EMP_AAAM.jobString>Making 30x29mm EMP grenades.</MakeAmmo_30x29mmGrenade_EMP_AAAM.jobString>
+
+  <MakeAmmo_30x29mmGrenade_Smoke_AAAM.label>make 30x29mm smoke grenades x100</MakeAmmo_30x29mmGrenade_Smoke_AAAM.label>
+  <MakeAmmo_30x29mmGrenade_Smoke_AAAM.description>Craft 100 30x29mm smoke grenades.</MakeAmmo_30x29mmGrenade_Smoke_AAAM.description>
+  <MakeAmmo_30x29mmGrenade_Smoke_AAAM.jobString>Making 30x29mm smoke grenades.</MakeAmmo_30x29mmGrenade_Smoke_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_HE_AAAM.label>make 40x46mm HE grenades x100</MakeAmmo_40x46mmGrenade_HE_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_HE_AAAM.description>Craft 100 40x46mm HE grenades.</MakeAmmo_40x46mmGrenade_HE_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_HE_AAAM.jobString>Making 40x46mm HE grenades.</MakeAmmo_40x46mmGrenade_HE_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.label>make 40x46mm HE Time-Fuzed grenades x100</MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.description>Craft 100 40x46mm HE Time-Fuzed grenades.</MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.jobString>Making 40x46mm HE Time-Fuzed grenades.</MakeAmmo_40x46mmGrenade_HE_TFuzed_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_HEDP_AAAM.label>make 40x46mm HEDP grenades x100</MakeAmmo_40x46mmGrenade_HEDP_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_HEDP_AAAM.description>Craft 100 40x46mm HEDP grenades.</MakeAmmo_40x46mmGrenade_HEDP_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_HEDP_AAAM.jobString>Making 40x46mm HEDP grenades.</MakeAmmo_40x46mmGrenade_HEDP_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_EMP_AAAM.label>make 40x46mm EMP grenades x100</MakeAmmo_40x46mmGrenade_EMP_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_EMP_AAAM.description>Craft 100 40x46mm EMP grenades.</MakeAmmo_40x46mmGrenade_EMP_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_EMP_AAAM.jobString>Making 40x46mm EMP grenades.</MakeAmmo_40x46mmGrenade_EMP_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_Smoke_AAAM.label>make 40x46mm smoke grenades x100</MakeAmmo_40x46mmGrenade_Smoke_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_Smoke_AAAM.description>Craft 100 40x46mm smoke grenades.</MakeAmmo_40x46mmGrenade_Smoke_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_Smoke_AAAM.jobString>Making 40x46mm smoke grenades.</MakeAmmo_40x46mmGrenade_Smoke_AAAM.jobString>
+
+  <MakeAmmo_40x46mmGrenade_Tox_AAAM.label>make 40x46mm tox grenades x100</MakeAmmo_40x46mmGrenade_Tox_AAAM.label>
+  <MakeAmmo_40x46mmGrenade_Tox_AAAM.description>Craft 100 40x46mm tox grenades.</MakeAmmo_40x46mmGrenade_Tox_AAAM.description>
+  <MakeAmmo_40x46mmGrenade_Tox_AAAM.jobString>Making 40x46mm tox grenades.</MakeAmmo_40x46mmGrenade_Tox_AAAM.jobString>
+
+  <MakeAmmo_6x24mmCharged_AAAM.label>make 6x24mm Charged cartridge x500</MakeAmmo_6x24mmCharged_AAAM.label>
+  <MakeAmmo_6x24mmCharged_AAAM.description>Craft 500 6x24mm Charged cartridges.</MakeAmmo_6x24mmCharged_AAAM.description>
+  <MakeAmmo_6x24mmCharged_AAAM.jobString>Making 6x24mm Charged cartridges.</MakeAmmo_6x24mmCharged_AAAM.jobString>
+
+  <MakeAmmo_6x24mmCharged_AP_AAAM.label>make 6x24mm Charged (Conc.) cartridge x500</MakeAmmo_6x24mmCharged_AP_AAAM.label>
+  <MakeAmmo_6x24mmCharged_AP_AAAM.description>Craft 500 6x24mm Charged (Conc.) cartridges.</MakeAmmo_6x24mmCharged_AP_AAAM.description>
+  <MakeAmmo_6x24mmCharged_AP_AAAM.jobString>Making 6x24mm Charged (Conc.) cartridges.</MakeAmmo_6x24mmCharged_AP_AAAM.jobString>
+
+  <MakeAmmo_6x24mmCharged_Ion_AAAM.label>make 6x24mm Charged (Ion) cartridge x500</MakeAmmo_6x24mmCharged_Ion_AAAM.label>
+  <MakeAmmo_6x24mmCharged_Ion_AAAM.description>Craft 500 6x24mm Charged (Ion) cartridges.</MakeAmmo_6x24mmCharged_Ion_AAAM.description>
+  <MakeAmmo_6x24mmCharged_Ion_AAAM.jobString>Making 6x24mm Charged (Ion) cartridges.</MakeAmmo_6x24mmCharged_Ion_AAAM.jobString>
+
+  <MakeAmmo_5x50mmCaseless_Sabot_AAAM.label>make 5x50mm Caseless (Sabot) cartridge x500</MakeAmmo_5x50mmCaseless_Sabot_AAAM.label>
+  <MakeAmmo_5x50mmCaseless_Sabot_AAAM.description>Craft 500 5x50mm Caseless (Sabot) cartridges.</MakeAmmo_5x50mmCaseless_Sabot_AAAM.description>
+  <MakeAmmo_5x50mmCaseless_Sabot_AAAM.jobString>Making 5x50mm Caseless (Sabot) cartridges.</MakeAmmo_5x50mmCaseless_Sabot_AAAM.jobString>
+
+  <MakeAmmo_30x64mmFuel_Incendiary_AAAM.label>make 30x64mm fuel cell (Incendiary) x50</MakeAmmo_30x64mmFuel_Incendiary_AAAM.label>
+  <MakeAmmo_30x64mmFuel_Incendiary_AAAM.description>Craft 50 30x64mm incendiary fuel cells.</MakeAmmo_30x64mmFuel_Incendiary_AAAM.description>
+  <MakeAmmo_30x64mmFuel_Incendiary_AAAM.jobString>Making incendiary fuel cells.</MakeAmmo_30x64mmFuel_Incendiary_AAAM.jobString>
+
+  <MakeAmmo_30x64mmFuel_Thermobaric_AAAM.label>make 30x64mm fuel cell (Thermobaric) x50</MakeAmmo_30x64mmFuel_Thermobaric_AAAM.label>
+  <MakeAmmo_30x64mmFuel_Thermobaric_AAAM.description>Craft 50 30x64mm thermobaric fuel cells.</MakeAmmo_30x64mmFuel_Thermobaric_AAAM.description>
+  <MakeAmmo_30x64mmFuel_Thermobaric_AAAM.jobString>Making thermobaric fuel cells.</MakeAmmo_30x64mmFuel_Thermobaric_AAAM.jobString>
+
+  <MakeAmmo_30x64mmFuel_Foam_AAAM.label>make 30x64mm fuel cell (Foam) x50</MakeAmmo_30x64mmFuel_Foam_AAAM.label>
+  <MakeAmmo_30x64mmFuel_Foam_AAAM.description>Craft 50 30x64mm foam fuel cells.</MakeAmmo_30x64mmFuel_Foam_AAAM.description>
+  <MakeAmmo_30x64mmFuel_Foam_AAAM.jobString>Making foam fuel cells.</MakeAmmo_30x64mmFuel_Foam_AAAM.jobString>
+
+  <MakeAmmo_RailRay_AAAM.label>make Charged Rail Ray cartridge x20</MakeAmmo_RailRay_AAAM.label>
+  <MakeAmmo_RailRay_AAAM.description>Craft 20 Charged Rail Ray cartridges.</MakeAmmo_RailRay_AAAM.description>
+  <MakeAmmo_RailRay_AAAM.jobString>Making Charged Rail Ray cartridges.</MakeAmmo_RailRay_AAAM.jobString>
+
+  <MakeAmmo_PlasmaPelletBolt_AAAM.label>make Plasma Charged pellet bolt cartridge x80</MakeAmmo_PlasmaPelletBolt_AAAM.label>
+  <MakeAmmo_PlasmaPelletBolt_AAAM.description>Craft 80 Plasma charged pellet bolt cartridges.</MakeAmmo_PlasmaPelletBolt_AAAM.description>
+  <MakeAmmo_PlasmaPelletBolt_AAAM.jobString>Making Plasma Charged pellet bolt cartridges.</MakeAmmo_PlasmaPelletBolt_AAAM.jobString>
+
+  <MakeAmmo_PlasmaBolt_AAAM.label>make Plasma charged bolt cartridge x80</MakeAmmo_PlasmaBolt_AAAM.label>
+  <MakeAmmo_PlasmaBolt_AAAM.description>Craft 80 Plasma charged bolt cartridges.</MakeAmmo_PlasmaBolt_AAAM.description>
+  <MakeAmmo_PlasmaBolt_AAAM.jobString>Making Plasma charged bolt cartridges.</MakeAmmo_PlasmaBolt_AAAM.jobString>
+
+  <MakeAmmo_BlasterBolt_AAAM.label>make Blaster charged bolt cartridge x80</MakeAmmo_BlasterBolt_AAAM.label>
+  <MakeAmmo_BlasterBolt_AAAM.description>Craft 80 Blaster charged bolt cartridges.</MakeAmmo_BlasterBolt_AAAM.description>
+  <MakeAmmo_BlasterBolt_AAAM.jobString>Making Blaster charged bolt cartridges.</MakeAmmo_BlasterBolt_AAAM.jobString>
+
+  <MakeAmmo_ChargedLaser_AAAM.label>make Charged Laser beam cartridge x40</MakeAmmo_ChargedLaser_AAAM.label>
+  <MakeAmmo_ChargedLaser_AAAM.description>Craft 40 Charged Laser beam cartridges.</MakeAmmo_ChargedLaser_AAAM.description>
+  <MakeAmmo_ChargedLaser_AAAM.jobString>Making Charged Laser beam cartridges.</MakeAmmo_ChargedLaser_AAAM.jobString>
+
+  <MakeAmmo_ChargedLaser_Stable_AAAM.label>make Charged Laser beam (Stable) cartridge x40</MakeAmmo_ChargedLaser_Stable_AAAM.label>
+  <MakeAmmo_ChargedLaser_Stable_AAAM.description>Craft 40 Charged Laser beam (Stable) cartridges.</MakeAmmo_ChargedLaser_Stable_AAAM.description>
+  <MakeAmmo_ChargedLaser_Stable_AAAM.jobString>Making Charged Laser beam (Stable) cartridges.</MakeAmmo_ChargedLaser_Stable_AAAM.jobString>
+
+  <MakeAmmo_BlasterPelletBolt_AAAM.label>make Blaster Charged pellet bolt cartridge x80</MakeAmmo_BlasterPelletBolt_AAAM.label>
+  <MakeAmmo_BlasterPelletBolt_AAAM.description>Craft 80 Blaster Charged  pellet bolt cartridges.</MakeAmmo_BlasterPelletBolt_AAAM.description>
+  <MakeAmmo_BlasterPelletBolt_AAAM.jobString>Making Blaster Charged pellet bolt cartridges.</MakeAmmo_BlasterPelletBolt_AAAM.jobString>
+
+
+</LanguageData>

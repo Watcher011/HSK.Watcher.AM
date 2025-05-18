@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_556x45mmNATO_Crio_AAAM.label>make 5.56x45mm NATO (CR-I)x500</MakeAmmo_556x45mmNATO_Crio_AAAM.label>
+  <MakeAmmo_556x45mmNATO_Crio_AAAM.description>make 80 5.56x45mm NATO (CR-I).</MakeAmmo_556x45mmNATO_Crio_AAAM.description>
+  <MakeAmmo_556x45mmNATO_Crio_AAAM.jobString>make 5.56x45mm NATO (CR-I).</MakeAmmo_556x45mmNATO_Crio_AAAM.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	
+
+	<RecipeDef ParentName="Make_AAAMAmmoBase" Class="UniversalFermenterSK.RecipeDef_UF">
+		<defName>MakeAmmo_762x39mmSoviet_Crio_AAAM</defName>
+		<label>make 7.62x39mm Soviet (CR-I)  x80</label>
+		<description>make 80 7.62x39mm Soviet (CR-I) .</description>
+		<jobString>make 7.62x39mm Soviet (CR-I).</jobString>
+		<researchPrerequisite>Range_C2</researchPrerequisite>
+		<skillRequirements>
+				<Crafting>7</Crafting>
+			</skillRequirements>
+			<workSkillLearnFactor>0.8</workSkillLearnFactor>
+			<ingredients>
+				<li>
+					<filter>
+						<categories>
+							<li>SLDBar</li>
+							<li>USLDBar</li>
+						</categories>
+					</filter>
+					<count>14</count>
+				</li>
+				<li>
+					<filter>
+						<categories>
+							<li>HeavyBar</li>
+						</categories>
+					</filter>
+					<count>4</count>
+				</li>
+				<li>
+					<filter>
+						<thingDefs>
+						   <li>Ammo_Flamethrower_Crio</li>
+						</thingDefs>
+					</filter>
+					<count>4</count>
+				</li>
+				<li>
+					<filter>
+						<thingDefs>
+							<li>Powder</li>
+						</thingDefs>
+					</filter>
+					<count>4</count>
+				</li>
+			</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Powder</li>
+				<li>Ammo_Flamethrower_Crio</li>
+			</thingDefs>
+			<categories>
+				<li>SLDBar</li>
+				<li>USLDBar</li>
+				<li>HeavyBar</li>
+			</categories>
+		</fixedIngredientFilter>
+		<products>
+			<Ammo_762x39mmSoviet_Crio>80</Ammo_762x39mmSoviet_Crio>
+		</products>
+	</RecipeDef>
+
+</Defs>

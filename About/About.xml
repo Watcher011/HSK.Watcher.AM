@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>HSK Watcher Ammo</name>
+   <author>WatcherXI</author>
+  <packageId>HSK.WatcherAmmo</packageId>
+  <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	
+	<url>https://ko-fi.com/watcher011</url>
+  <description>
+  Сборка состоит из 1 верстака
+  Поддержка патронов из модов 
+ "ArpoMo6.HMC.USSRWP" USSRWP
+ "XxNelsonxX.Parabellum" Parabellum
+ "arpomo6.hmc.project" HSKMC
+ "HSK.WatcherContent" HSKWC 
+  </description>
+ 	
+</ModMetaData>
